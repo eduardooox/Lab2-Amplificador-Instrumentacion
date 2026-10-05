@@ -34,15 +34,6 @@ Ejemplo de ubicación del código: `codigo/Lab02_Instrumentacion/Lab02_Instrumen
 - Procesador: ATmega2560.
 - Proteus con los modelos necesarios para el circuito.
 
-Registrar antes de publicar:
-
-| Recurso | Versión utilizada |
-| --- | --- |
-| Arduino IDE | Completar. |
-| Arduino AVR Boards | Completar. |
-| Proteus | Completar. |
-| Modelos adicionales, si corresponde | Indicar nombre, versión y forma de instalación. |
-
 ## Configuración del programa
 
 Los parámetros corresponden al programa de generación y adquisición del proyecto:
